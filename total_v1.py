@@ -209,6 +209,7 @@ def reflechir_et_parler(texte_passant):
     phrase_en_cours = ""
     memoire_complete_ia = ""
 
+
     for chunk in response_stream:
         mot = chunk['message']['content']
         phrase_en_cours += mot
