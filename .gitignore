@@ -1,0 +1,11 @@
+# Modèles d'IA lourds
+*.onnx
+*.bin
+modele_whisper/
+
+# Fichiers audio temporaires
+*.wav
+
+# Fichiers de configuration VS Code / Python
+.vscode/
+__pycache__/

@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../PlatformIO/Projects/formation"
+		},
+		{
+			"name": "Pick",
+			"path": "../../PlatformIO/Projects/Pick"
+		}
+	],
+	"settings": {}
+}
